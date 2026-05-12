@@ -5,7 +5,6 @@ A **Computer Networks** semester project featuring a professional **Flask-based 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
 ![Sockets](https://img.shields.io/badge/Protocol-TCP%20%2F%20UDP-teal)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -126,6 +125,4 @@ UDP_PORT  = 54321
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+## ScreenShots

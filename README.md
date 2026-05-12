@@ -121,8 +121,14 @@ UDP_PORT  = 54321
 
 ## 👨‍💻 Developed By
 
-**DevNest Tech** — Computer Networks Project, Semester 4
+**Abdullah Tahir** — Computer Networks Project, Semester 4
 
 ---
 
 ## ScreenShots
+<img width="1918" height="1010" alt="Screenshot 2026-05-01 012353" src="https://github.com/user-attachments/assets/5620d0f3-d1ae-497d-84c7-1157507d5efb" />
+<img width="1919" height="1005" alt="Screenshot 2026-05-01 012429" src="https://github.com/user-attachments/assets/318ffdfb-8431-4970-98bf-5bd6be64e8e9" />
+<img width="1919" height="1007" alt="Screenshot 2026-05-01 012446" src="https://github.com/user-attachments/assets/f01bd5db-3645-4d2d-82fc-edd09b968cec" />
+
+
+
